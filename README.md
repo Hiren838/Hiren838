@@ -1,4 +1,4 @@
-![Data Science](https://github.com/Hiren838/Hiren838/assets/73177128/c01b25bd-b155-424f-b1e5-b814fe1623de)
+![Data Science](https://media.licdn.com/dms/image/C4D12AQHVwwANhww7Og/article-cover_image-shrink_600_2000/0/1617571765164?e=2147483647&v=beta&t=vSswZXpLUxZ6pGAn5JG8gCMw8xzcGFeQbOaGAZ2wUxU)
 <h1 align="center">Hi 👋, I'm Hiren Thakkar</h1>
 <h3 align="center">Aspiring data science enthusiast dedicated to unlocking insights from data.</h3>
 <img align="right" alt="Coding" width="500" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
