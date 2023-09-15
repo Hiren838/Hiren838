@@ -1,4 +1,4 @@
-![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*cXdJh394X6YIzRCvXsaJzg.gif)
+![MasterHead](https://drive.google.com/file/d/113t92j56XVWWIrCK1tesLEJX5YHio-tw/view?usp=drive_link)
 <h1 align="center">Hi 👋, I'm Hiren Thakkar</h1>
 <h3 align="center">Aspiring data science enthusiast dedicated to unlocking insights from data.</h3>
 <img align="right" alt="Coding" width="500" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
