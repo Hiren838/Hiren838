@@ -13,6 +13,8 @@
 
 - 📫 How to reach me **thakkarhiren838@gmail.com**
 
+- 👨‍💻 All of my projects are available at (https://hiren838.github.io/My_Portfolio/)
+
 - ⚡ Fun fact **I love to do vlogging and explore things**
 
 <h3 align="left">Connect with me:</h3>
