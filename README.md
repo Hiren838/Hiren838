@@ -1,12 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hiren Thakkar</h1>
 <h3 align="center">Aspiring data science enthusiast dedicated to unlocking insights from data.</h3>
-<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiren838&label=Profile%20views&color=0e75b6&style=flat" alt="hiren838" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hiren838" alt="hiren838" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on [personal project](https://github.com/Hiren838/Student_Support_VITCHAT)
 
