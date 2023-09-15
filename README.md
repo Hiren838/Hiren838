@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Hiren Thakkar</h1>
 <h3 align="center">Aspiring data science enthusiast dedicated to unlocking insights from data.</h3>
-<img align="right" alt="Coding" width="400" src="[https://chools.in/wp-content/uploads/data-science-2-1.gif](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif)">
+<img align="right" alt="Coding" width="400" src="https://chools.in/wp-content/uploads/data-science-2-1.gif](https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hiren838&label=Profile%20views&color=0e75b6&style=flat" alt="hiren838" /> </p>
 
