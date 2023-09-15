@@ -1,4 +1,4 @@
-[![MasterHead](https://www.mjvinnovation.com/wp-content/uploads/2021/07/Etapas-do-Data-Science-para-aplicar-na-sua-empresa.gif)]
+![MasterHead](https://miro.medium.com/v2/resize:fit:1358/1*cXdJh394X6YIzRCvXsaJzg.gif)
 <h1 align="center">Hi 👋, I'm Hiren Thakkar</h1>
 <h3 align="center">Aspiring data science enthusiast dedicated to unlocking insights from data.</h3>
 <img align="right" alt="Coding" width="500" src="https://www.sciencenews.org/wp-content/uploads/2023/04/040823_chatgpt_feat.gif">
